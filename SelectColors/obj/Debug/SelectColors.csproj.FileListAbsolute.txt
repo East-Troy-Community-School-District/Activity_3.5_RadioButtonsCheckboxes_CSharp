@@ -1,0 +1,10 @@
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\bin\Debug\SelectColors.exe.config
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\bin\Debug\SelectColors.exe
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\bin\Debug\SelectColors.pdb
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.SelectColorsForm.resources
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.exe
+\\et-fileserver\staff\pawnol\Desktop\SelectColors\obj\Debug\SelectColors.pdb

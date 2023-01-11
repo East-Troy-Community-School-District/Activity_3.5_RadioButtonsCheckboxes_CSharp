@@ -1,0 +1,9 @@
+\\et-fileserver\staff\pawnol\Desktop\AirLine\bin\Debug\AirLine.exe.config
+\\et-fileserver\staff\pawnol\Desktop\AirLine\bin\Debug\AirLine.exe
+\\et-fileserver\staff\pawnol\Desktop\AirLine\bin\Debug\AirLine.pdb
+\\et-fileserver\staff\pawnol\Desktop\AirLine\obj\Debug\AirLine.AirlineForm.resources
+\\et-fileserver\staff\pawnol\Desktop\AirLine\obj\Debug\AirLine.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\AirLine\obj\Debug\AirLine.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\AirLine\obj\Debug\AirLine.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\AirLine\obj\Debug\AirLine.exe
+\\et-fileserver\staff\pawnol\Desktop\AirLine\obj\Debug\AirLine.pdb

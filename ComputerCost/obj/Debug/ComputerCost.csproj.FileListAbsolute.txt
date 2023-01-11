@@ -1,0 +1,10 @@
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\bin\Debug\ComputerCost.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\bin\Debug\ComputerCost.exe
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\bin\Debug\ComputerCost.pdb
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.exe
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.pdb
+\\et-fileserver\staff\pawnol\Desktop\ComputerCost\obj\Debug\ComputerCost.ComputerCostForm.resources

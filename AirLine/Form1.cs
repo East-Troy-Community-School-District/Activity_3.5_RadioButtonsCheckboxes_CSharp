@@ -1,7 +1,8 @@
 ﻿/*
  * Airline
- * 1/11/2023
- * C#.NET I
+ * Pawelski
+ * 10/1/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Run the program a few times to familiarize yourself with
